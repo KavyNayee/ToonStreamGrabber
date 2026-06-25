@@ -1,0 +1,6 @@
+{
+  "name": "Anime Publisher Tools Suite",
+  "description": "An automated tools suite for generating episode URL sequences, extracting video iframes, and building structured CSV files for easy anime episode uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
